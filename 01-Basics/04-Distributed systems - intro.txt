@@ -1,0 +1,39 @@
+Systems design uses computer engineering principles to build large-scale distributed systems. It involves converting business problems and requirements into technical solutions. Senior engineers use system design patterns to make reliable, scalable, and maintainable systems.
+
+We mention ten tips/terms used by engineers when designing systems:
+
+Vertical scaling
+
+Preprocessing using cron jobs
+
+Backup servers
+
+Horizontal scaling
+
+Microservices
+
+Distributed Systems
+
+Load Balancing
+
+Decoupling
+
+Logging and metrics calculation
+
+Extensibility
+
+RESOURCES
+
+Scalability Basics: https://youtu.be/xpDnVSmNFX0
+
+Load Balancing: https://youtu.be/K0Ta65OqQkY
+
+Microservices: https://youtu.be/qYhRvH9tJKw
+
+Single Point of Failure: https://youtu.be/-BOysyYErLY
+
+Backups: https://youtu.be/GeGxgmPTe4c
+
+Health checks: https://youtu.be/lWE_UIbm8NA
+
+Designing Data Intensive Applications - https://amzn.to/2yQIrxH

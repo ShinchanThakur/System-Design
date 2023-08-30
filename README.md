@@ -5,6 +5,7 @@
 1. Monolith vs Microservices
 2. Horizontal vs Vertical Scaling
 3. Load Balancing
+4. Distributed systems - Intro
 
 ## Credits
 
