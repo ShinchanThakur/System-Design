@@ -4,6 +4,7 @@
 
 1. Monolith vs Microservices
 2. Horizontal vs Vertical Scaling
+3. Load Balancing
 
 ## Credits
 

@@ -1,0 +1,23 @@
+Load Balancing is a key concept to system design. One simple way would be hashing all requests and then sending them to the assigned server.
+
+The standard way to hash objects is to map them to search space, and then transfer the load to the mapped computer. A system using this policy is likely to suffer when new nodes are added or removed from it.
+
+Some terms you would hear in system design interviews are Fault Tolerance, in which case a machine crashes. And Scalability, in which case machines need to be added to process more requests. Another term used often is request allocation. This means assigning a request to a server.
+
+Load balancing is often tied with service discovery and global locks. The type of load we want to balance is that of sticky sessions.
+
+RESOURCES
+
+https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions
+
+https://www.citrix.co.in/glossary/load-balancing.html
+
+https://www.nginx.com/resources/glossary/load-balancing/
+
+https://en.wikipedia.org/wiki/Load_balancing_(computing)
+
+http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/
+
+http://michaelnielsen.org/blog/consistent-hashing
+
+https://www.youtube.com/watch?v=viaNG1zyx1g
