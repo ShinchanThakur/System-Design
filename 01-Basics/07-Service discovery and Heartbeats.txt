@@ -1,0 +1,11 @@
+Servers crash due to various reasons like hardware faults and software bugs. Service Discovery and Health Checks are essential for maintaining a service ecosystem's availability and reliability. We talk about how a heartbeat service can be used to maintain system state and help the load balancer decide where to direct requests. Now when a server crashes, the heartbeat service and identify and restart the service immediately on the server.
+
+Service Discovery is another important part of deploying and maintaining systems. The load balancer is able to adapt request routing. Both features allow the system to report and heal issues efficiently.
+
+RESOURCES
+
+https://medium.com/the-cloud-architect/patterns-for-resilient-architecture-part-3-16e8601c488e
+
+https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b
+
+Kafka paper: https://notes.stephenholiday.com/Kafka.pdf
